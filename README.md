@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Python Language</h1>
+<h1 align="center" style="font-weight: bold;"> 🐍 Python Language</h1>
 
 
 <p align="center">Python, known for its readability and beginner-friendliness, is a powerful language used for web development, data analysis, machine learning, and much more. This project leverages Python's strengths to [describe your project's purpose].</p>
