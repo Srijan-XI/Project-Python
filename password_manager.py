@@ -1,3 +1,5 @@
+#Install Required Libraries
+#pip install cryptography
 from cryptography.fernet import Fernet
 import json
 import os
