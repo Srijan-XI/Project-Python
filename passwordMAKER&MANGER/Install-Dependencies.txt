@@ -1,0 +1,4 @@
+Before running the script, install the necessary libraries:=
+* pip install cryptography
+Before running the updated script, install ttkbootstrap for a modern UI theme:-
+* pip install cryptography ttkbootstrap
