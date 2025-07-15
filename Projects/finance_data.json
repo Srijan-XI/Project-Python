@@ -1,0 +1,18 @@
+{
+    "income": [
+        {
+            "amount": 5000.0,
+            "category": "ex",
+            "note": "0000",
+            "timestamp": "2025-07-15 22:12:22"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 40.0,
+            "category": "loo",
+            "note": "",
+            "timestamp": "2025-07-15 22:12:45"
+        }
+    ]
+}
