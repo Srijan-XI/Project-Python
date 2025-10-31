@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import tkinter as tk
 from tkinter import ttk
 
@@ -278,4 +277,3 @@ result_label.pack()
 update_units()  # Initialize defaults
 
 root.mainloop()
->>>>>>> 397691e3bddc1c2468c0790a7ae5dcc8aba4e6c3
